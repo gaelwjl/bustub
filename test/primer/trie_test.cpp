@@ -1,3 +1,4 @@
+#include <_types/_uint32_t.h>
 #include <fmt/format.h>
 #include <bitset>
 #include <functional>
